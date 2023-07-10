@@ -1,6 +1,6 @@
 # Flight Price Monitoring and Notifications
 
-Flight Club is a Python application that helps you monitor flight prices and sends notifications via Dingtalk. With Flight Club, you can track flight prices for various destinations and receive alerts when the prices drop below a certain threshold.
+Flight Price Monitoring and Notifications is a Python application that helps you monitor flight prices and sends notifications via Dingtalk. With it, you can track flight prices for various destinations and receive alerts when the prices drop below a certain threshold.
 
 ![dingtalk](./images/dingtalk.png)
 
@@ -10,7 +10,7 @@ Flight Club is a Python application that helps you monitor flight prices and sen
 - Retrieve destination data from a Google Sheet
 - Automatically update IATA codes for destinations
 - Send notifications via Dingtalk when prices meet the criteria
-- Subscription can be enabled with limited update on `main.py` and `notification_manager.py`
+- Subscription can be enabled with a limited update on `main.py` and `notification_manager.py`
 
 ## Setup
 
@@ -32,9 +32,9 @@ Flight Club is a Python application that helps you monitor flight prices and sen
 
 4. Link google sheet to [Sheety](https://sheety.co/) and create sheety authentication token.
 
-5. Create a API key for flight search from [KIWI](https://tequila.kiwi.com/portal/getting-started)
+5. Create an API key for flight search from [KIWI](https://tequila.kiwi.com/portal/getting-started)
 
-6. Get Dingtalk token and secret from [Dingtalk](https://open.dingtalk.com/document/orgapp/custom-robot-access)
+6. Get the Dingtalk token and secret from [Dingtalk](https://open.dingtalk.com/document/orgapp/custom-robot-access)
 
 7. Set up the necessary environment variables:
 
