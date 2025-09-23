@@ -17,7 +17,7 @@ Flight Price Monitoring and Notifications is a Python application that helps you
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/flight-club.git
+   git clone https://github.com/yujiaohe/flight-club.git
    ```
 
 2. Install the required dependencies:
